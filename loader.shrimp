@@ -1,0 +1,5 @@
+if game.GameId == 7606602544 then
+	loadstring(game:HttpGet("idk.com/game.shrimp"))()
+else
+	loadstring(game:HttpGet("idk.com/universal.shrimp"))
+end
