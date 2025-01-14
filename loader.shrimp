@@ -1,5 +1,5 @@
 if game.GameId == 7606602544 then
-	loadstring(game:HttpGet("idk.com/game.shrimp"))()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/PixelMeta/-/refs/heads/main/game.shrimp?token=GHSAT0AAAAAAC5GOJCEYJ5FYAY2BV3VD74IZ4GYW4A'))()
 else
 	loadstring(game:HttpGet("idk.com/universal.shrimp"))
 end
